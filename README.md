@@ -1,3 +1,5 @@
+![Deploy  Base React App](https://github.com/shoaibmasood/base-react-app/workflows/Deploy%20%20Base%20React%20App/badge.svg)
+
 # React Base App for Bootcamp 2020: Learning React
 
 We will create a React base app to start learning React
@@ -22,11 +24,11 @@ npm start
 
 Create GitHub Actions Workflow of deploying a the React App to Surge,
 
-//********************\*\*\*\*********************
+//**\*\*\*\***\*\*\*\***\*\*\*\***\*\*\*\***\*\*\*\***\*\*\*\***\*\*\*\***
 
 The Following documentation is auto generated
 
-//********************\*\*\*\*********************
+//**\*\*\*\***\*\*\*\***\*\*\*\***\*\*\*\***\*\*\*\***\*\*\*\***\*\*\*\***
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
