@@ -1,3 +1,33 @@
+# React Base App for Bootcamp 2020: Learning React
+
+We will create a React base app to start learning React
+
+Create React Project using Create React App
+
+[https://create-react-app.dev/docs/getting-started]
+
+[https://github.com/facebook/create-react-app]
+
+Use the following command:
+
+npx create-react-app react-base-app
+
+Open created directory/project in VS Code
+
+Give following commands to view app in browser:
+
+cd react-base-app
+
+npm start
+
+Create GitHub Actions Workflow of deploying a the React App to Surge,
+
+//********************\*\*\*\*********************
+
+The Following documentation is auto generated
+
+//********************\*\*\*\*********************
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
