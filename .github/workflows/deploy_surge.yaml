@@ -23,7 +23,7 @@ jobs:
         with:
           node-version: 12
       - name: Build React App
-        run: npm build
+        run: npm run-script build
       - name: Install Surge
         run: npm install -g surge
       - name: Run surge
